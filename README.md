@@ -6,10 +6,10 @@ This project uses advanced machine learning algorithms to accurately differentia
 This project originated as the final assignment for a machine learning course I attended at Yonsei University in Seoul. For our final task, we were challenged to select a dataset and apply the comprehensive set of skills and techniques we had learned throughout the course. This project not only demonstrates the practical application of advanced machine learning algorithms but also marks a significant milestone in our academic exploration of the field.
 
 ## File Explanation
-FinalProject_YonseiML_Course.pdf - PDF project submitted as my final assignment in the course
-data.csv - dataset used (see Dataset )
-model.ipynb - the actual code
-wallpaperflare.com_wallpaper.jpg - photo used for the Tinker GUI
+- FinalProject_YonseiML_Course.pdf - PDF project submitted as my final assignment in the course
+- data.csv - dataset used (see Dataset )
+- model.ipynb - the actual code
+- wallpaperflare.com_wallpaper.jpg - photo used for the Tinker GUI
 
 
 ## Motivation
