@@ -1,8 +1,6 @@
 # Pulsar-Star-Predictor-for-Scientists
 
-# Predicting Pulsars
-
-This project uses advanced machine learning algorithms to accurately differentiate pulsar candidates from spurious noise, leveraging data collected by sophisticated astronomical detectors.
+This project uses advanced machine learning algorithms to accurately differentiate pulsar candidates from spurious noise, leveraging data collected by sophisticated astronomical detectors. Additionally, it includes a comprehensive comparison between popular machine learning models to evaluate their effectiveness.
 
 ## Motivation
 
