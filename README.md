@@ -2,6 +2,16 @@
 
 This project uses advanced machine learning algorithms to accurately differentiate pulsar candidates from spurious noise, leveraging data collected by sophisticated astronomical detectors. Additionally, it includes a comprehensive comparison between popular machine learning models to evaluate their effectiveness.
 
+## Project "Lore"
+This project originated as the final assignment for a machine learning course I attended at Yonsei University in Seoul. For our final task, we were challenged to select a dataset and apply the comprehensive set of skills and techniques we had learned throughout the course. This project not only demonstrates the practical application of advanced machine learning algorithms but also marks a significant milestone in our academic exploration of the field.
+
+## File Explanation
+FinalProject_YonseiML_Course.pdf - PDF project submitted as my final assignment in the course
+data.csv - dataset used (see Dataset )
+model.ipynb - the actual code
+wallpaperflare.com_wallpaper.jpg - photo used for the Tinker GUI
+
+
 ## Motivation
 
 The motivation behind choosing this topic is my profound interest in astrophysics and physics. This project ties in with my academic interests and an upcoming interview at Romania’s largest laser facility [https://www.eli-np.ro/], where I'll be working with experimental physics data. It's a fantastic opportunity to deepen my understanding of the universe and get ready for the practical aspects of my career, merging theory with real-world applications.
