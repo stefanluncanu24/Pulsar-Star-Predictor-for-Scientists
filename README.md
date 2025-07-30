@@ -9,7 +9,7 @@ This project originated as the final assignment for a machine learning course I 
 - data.csv - dataset used (see Dataset )
 - model.ipynb - the actual code
 - wallpaperflare.com_wallpaper.jpg - photo used for the Tinker GUI
-- 
+  
 ## Introduction
 
 Pulsars are highly magnetized, rotating neutron stars that emit beams of electromagnetic radiation. This project utilizes the HTRU2 dataset from the High Time Resolution Universe Survey, which includes both real and spurious pulsar examples.
